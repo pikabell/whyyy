@@ -4,7 +4,7 @@ int main(){
     printf("Enter a month no. : ");
     int n;
     scanf("%d",&n);
-    switch(n){
+    switch(n){ 
         case 1:  printf("January");break;
         case 2:  printf("February");break;
         case 3:  printf("March");break;
